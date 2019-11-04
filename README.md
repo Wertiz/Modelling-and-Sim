@@ -8,3 +8,5 @@ Alessandro Pianese S4106431
 ### base.py
 The base.py file study the how the relation between the payoff and the population density
 
+### popGrowth.py
+The popGrowth.py file adds population growth to the base case scenario and simulate the shifts in density according to the given values
